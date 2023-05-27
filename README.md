@@ -1,6 +1,6 @@
 # aims
 
-A new Flutter project.
+A new Flutter project for infrastructure management ssystem for colage .
 
 ## Getting Started
 
