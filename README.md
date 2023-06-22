@@ -1,6 +1,6 @@
 # Infrastructure Management System
 
-The Infrastructure Management System is a mobile application that allows users within an organization to report and track the condition of various items, including tables, chairs, plumbing, electrical equipment, electronics, and more. The app provides a seamless way for users to report damages or issues, while the maintenance team can efficiently manage and update the status of reported items.
+The Infrastructure Management System is a mobile application that allows users within an organization to report and track the condition of various items, including tables, chairs, plumbing, electrical equipment, electronics, and more. The app provides a seamless way for users to report damages or issues while the maintenance team can efficiently manage and update the status of reported items.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -9,6 +9,7 @@ The Infrastructure Management System is a mobile application that allows users w
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
+- [Download](#download)
 - [License](#license)
 - [Contact](#contact)
 
@@ -25,13 +26,31 @@ To install and run the Infrastructure Management System app, follow these steps:
 
 ## Usage
 
+The Infrastructure Management System app is designed for both users and the maintenance team to efficiently manage and track the condition of various items within an organization. Here's how different stakeholders can use the app:
+
+### Users
+
 1. Launch the app on your mobile device.
-2. Sign in or create a new account.
+2. Sign in or create a new account as a user.
 3. Explore the different categories of items (tables, chairs, plumbing, electrical, electronics, etc.).
 4. Report any damages or issues by filling out the necessary details.
 5. Submit the report, and it will be sent to the maintenance team for review.
-6. The maintenance team can access the reports, update the status, and assign tasks to team members.
-7. Users can view the status of their reported items and receive notifications on updates.
+6. You can view the status of your reported items and receive notifications on updates.
+
+### Maintenance Team
+
+1. Launch the app on your mobile device.
+2. Sign in or create a new account as a member of the maintenance team.
+3. Access the dashboard where you can manage all the categories and items.
+4. Review the reported items, including their details and any attached images.
+5. Update the status of reported items (under review, in progress, resolved, etc.).
+6. Assign tasks to team members for specific items.
+7. Communicate with users if additional information is required.
+8. Users will receive notifications regarding the status updates.
+
+By providing separate user and maintenance team accounts, the Infrastructure Management System app ensures that users can report damages, while the maintenance team can efficiently manage and update the status of reported items across different categories.
+
+
 
 ## Features
 
@@ -63,6 +82,15 @@ Contributions to the Infrastructure Management System app are welcome! If you wo
 3. Make the necessary changes and commit them: `git commit -m "Add feature"`
 4. Push your changes to your forked repository: `git push origin feature-name`
 5. Open a pull request, providing a detailed description of the changes.
+
+## Download
+
+You can download the latest version of the Infrastructure Management System app APK from the following link:
+
+[Download APK](https://example.com/infra-management-system.apk)
+
+> Note: Make sure to enable installation from unknown sources on your Android device before installing the APK.
+
 
 ## License
 
