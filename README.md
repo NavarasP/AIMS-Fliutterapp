@@ -62,8 +62,8 @@ By providing separate user and maintenance team accounts, the Infrastructure Man
 
 ## Screenshots
 
-> ![Screenshot](https://github.com/NavarasP/AIMS-Fliutterapp/blob/main/assets/screenshot/Screenshot 2023-06-22 193320.png)
-> ![Screenshot](https://github.com/NavarasP/AIMS-Fliutterapp/blob/main/assets/screenshot/Screenshot 2023-06-22 193408.png)
+![Screenshot 1](https://github.com/NavarasP/AIMS-Fliutterapp/blob/main/assets/screenshot/Screenshot%202023-06-22%20193320.png)
+![Screenshot 2](https://github.com/NavarasP/AIMS-Fliutterapp/blob/main/assets/screenshot/Screenshot%202023-06-22%20193408.png)
 
 
 
