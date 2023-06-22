@@ -1,4 +1,3 @@
-# aims
 # Infrastructure Management System
 
 The Infrastructure Management System is a mobile application that allows users within an organization to report and track the condition of various items, including tables, chairs, plumbing, electrical equipment, electronics, and more. The app provides a seamless way for users to report damages or issues, while the maintenance team can efficiently manage and update the status of reported items.
