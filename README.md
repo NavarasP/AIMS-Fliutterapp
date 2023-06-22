@@ -22,7 +22,7 @@ To install and run the Infrastructure Management System app, follow these steps:
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
 
-> Note: Make sure you have Flutter and its dependencies installed on your development machine.
+> Note: Ensure you have Flutter and its dependencies installed on your development machine.
 
 ## Usage
 
@@ -34,21 +34,21 @@ The Infrastructure Management System app is designed for both users and the main
 2. Sign in or create a new account as a user.
 3. Explore the different categories of items (tables, chairs, plumbing, electrical, electronics, etc.).
 4. Report any damages or issues by filling out the necessary details.
-5. Submit the report, and it will be sent to the maintenance team for review.
+5. Submit the report, which will be sent to the maintenance team for review.
 6. You can view the status of your reported items and receive notifications on updates.
 
 ### Maintenance Team
 
 1. Launch the app on your mobile device.
-2. Sign in or create a new account as a member of the maintenance team.
-3. Access the dashboard where you can manage all the categories and items.
+2. Sign in or create a new account as a maintenance team member.
+3. Access the dashboard to manage all the categories and items.
 4. Review the reported items, including their details and any attached images.
 5. Update the status of reported items (under review, in progress, resolved, etc.).
 6. Assign tasks to team members for specific items.
 7. Communicate with users if additional information is required.
-8. Users will receive notifications regarding the status updates.
+8. Users will receive notifications regarding status updates.
 
-By providing separate user and maintenance team accounts, the Infrastructure Management System app ensures that users can report damages, while the maintenance team can efficiently manage and update the status of reported items across different categories.
+By providing separate user and maintenance team accounts, the Infrastructure Management System app ensures that users can report damages while the maintenance team can efficiently manage and update the status of reported items across different categories.
 
 
 
@@ -87,9 +87,9 @@ Contributions to the Infrastructure Management System app are welcome! If you wo
 
 You can download the latest version of the Infrastructure Management System app APK from the following link:
 
-[Download APK](https://example.com/infra-management-system.apk)
+[Download APK](https://github.com/NavarasP/AIMS-Fliutterapp/blob/main/build/app/outputs/apk/release/app-release.apk)
 
-> Note: Make sure to enable installation from unknown sources on your Android device before installing the APK.
+> Note: Ensure installation from unknown sources on your Android device before installing the APK.
 
 
 ## License
@@ -98,4 +98,4 @@ The Infrastructure Management System app is licensed under the [MIT License](LIC
 
 ## Contact
 
-For any questions, feedback, or support, please contact [Navaras P] at [navarasparayil@email.com].
+Don't hesitate to contact Navaras P at navarasparayil@email.com for any questions, feedback, or support.
