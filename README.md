@@ -70,4 +70,4 @@ The Infrastructure Management System app is licensed under the [MIT License](LIC
 
 ## Contact
 
-For any questions, feedback, or support, please contact [Your Name] at [your@email.com].
+For any questions, feedback, or support, please contact [Navaras P] at [navarasparayil@email.com].
