@@ -62,7 +62,10 @@ By providing separate user and maintenance team accounts, the Infrastructure Man
 
 ## Screenshots
 
-> Include screenshots or GIFs showcasing your app's interface or functionality.
+> ![Screenshot](screenshots/screenshot.png)
+> ![Screenshot](screenshots/screenshot.png)
+
+
 
 ## Technologies Used
 
